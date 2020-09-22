@@ -3,35 +3,35 @@ const INITIAL_STATE = {
     {
       title: 'hats',
       imageUrl:
-        'https://i.ibb.co/yPS4jWc/ahmed-syed-6-NVr-H0-HB-DE-unsplash.jpg',
+        'https://i.ibb.co/Z6nfQjR/pawel-szvmanski-U2-Wu-Wi-92o-unsplash.jpg',
       id: 1,
       linkUrl: 'shop/hats',
     },
     {
       title: 'jackets',
       imageUrl:
-        'https://i.ibb.co/CWr9XVq/dami-adebayo-k6a-Qzm-Ib-R1s-unsplash.jpg',
+        'https://i.ibb.co/c3SZshP/ryan-moreno-Urc-G58-Vh-Fzs-unsplash.jpg',
       id: 2,
       linkUrl: 'shop/jackets',
     },
     {
       title: 'sneakers',
-      imageUrl: 'https://i.ibb.co/wwV9sfr/pat-kwon-EJTjetc8t-Ps-unsplash.jpg',
+      imageUrl:
+        'https://i.ibb.co/WVp6mtr/misael-nevarez-Dra4-RTC5c-Q-unsplash.jpg',
       id: 3,
       linkUrl: 'shop/sneakers',
     },
     {
       title: 'womens',
       imageUrl:
-        'https://i.ibb.co/VHMNjvM/kimson-doan-HD8-Kly-WRYYM-unsplash.jpg',
+        'https://i.ibb.co/0mq5fmL/tai-s-captures-ozn-ETn7-Vn-YQ-unsplash.jpg',
       size: 'large',
       id: 4,
       linkUrl: 'shop/womens',
     },
     {
       title: 'mens',
-      imageUrl:
-        'https://i.ibb.co/Y30wTYD/donn-gabriel-baleva-U-Z4-P2-H3-KFE-unsplash.jpg',
+      imageUrl: 'https://i.ibb.co/pvyXrnt/01cowgirls.jpg',
       size: 'large',
       id: 5,
       linkUrl: 'shop/mens',
