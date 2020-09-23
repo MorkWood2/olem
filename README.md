@@ -1,6 +1,6 @@
 # OLEM Inc.
 
-An appeal site that build in React, Redux, and the Stripe Api. 
+An apparel site that build in React, Redux, and the Stripe Api. 
 
 ![project](/project.png)
 
