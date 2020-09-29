@@ -2,7 +2,7 @@
 
 An apparel site that build in React, Redux, and the Stripe Api. 
 
-![project](/project.png)
+![project](/project-img.png)
 
 ## Getting Started
 Download File to local computer
