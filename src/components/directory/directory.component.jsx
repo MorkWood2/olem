@@ -29,7 +29,7 @@ const Directory = ({ sections }) => (
       <Title>
         Discover Vacation
         <br />
-        Summer Vibes{' '}
+        Summer Wears.{' '}
       </Title>
       <Description>
         What perfect timing. This is a lookbook so good, that it's actually
